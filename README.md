@@ -3,29 +3,19 @@
 </div>
 ### Hi there 👋
 
----
 
-### :fire: My Stats :
-
-
-
-
-
-
-
-<!--
-**kingswilll/kingswilll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ✨ Kingswill ✨ 
 
 Here are some ideas to get you started:
-
+<!--
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning ... -->
+- 👯 I’m looking to collaborate on ... colaborations
+- 🤔 I’m looking for help with ... Any project 
+ <!--- 💬 Ask me about ... -->
+
+- 📫 kingsleywlls@gmail.com
+<!--- 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
 
 
