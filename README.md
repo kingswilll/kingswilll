@@ -11,7 +11,6 @@
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ... -->
 - 👯 I’m looking to collaborate on nice projects, no matter how small 
-- 🤔 I’m looking for help with front end and backend
  <!--- 💬 Ask me about ... -->
 
 - 📫 kingsleywlls@gmail.com
